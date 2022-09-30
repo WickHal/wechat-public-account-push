@@ -32,12 +32,7 @@ const USER_CONFIG = {
           type: '*生日', name: '菲菲公主', year: '1999', date: '09-28',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '菲菲公主', year: '1999', date: '11-05',
-        },
-        {
-          type: '节日', name: '菲菲公主', year: '2017', date: '09-01',
-        },
+        
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
