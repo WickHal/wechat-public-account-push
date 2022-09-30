@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: '菲菲公主', year: '1999', date: '11-05',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2017', date: '09-01',
+          type: '节日', name: '菲菲公主', year: '2017', date: '09-01',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -44,7 +44,7 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2021-10-20' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2026-09-09' },
+        { keyword: 'marry_day', date: '2021-09-09' },
       ],
     },
   ],
